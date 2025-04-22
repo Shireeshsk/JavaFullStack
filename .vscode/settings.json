@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.project.outputPath": "output",
+    "java.project.sourcePaths": [
+        "1.JAVA Basics",
+        "2.Arrays",
+        "3.Strings",
+        "4.Searching & Sorting",
+        "5.OOPs"
+    ]
+}
